@@ -1,4 +1,4 @@
-package leetcode
+package leetcode.problem199
 
 // (Medium) https://leetcode.com/problems/binary-tree-right-side-view
 class Solution {

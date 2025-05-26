@@ -1,4 +1,4 @@
-package leetcode
+package leetcode.problem198
 
 import kotlin.math.max
 
